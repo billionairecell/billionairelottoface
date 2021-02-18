@@ -396,6 +396,6 @@ input:checked + label > .knob > i:before {
 }
 
 .ad-partners {
-    width: 680px;
+    width: 320px;
     margin: 0 auto;
 }
