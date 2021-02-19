@@ -1,4 +1,2 @@
 User-Agent:*
 Allow: /
-
-Sitemap: https://animalface.site/sitemap.xml
