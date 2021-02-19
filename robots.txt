@@ -1,2 +1,4 @@
 User-Agent:*
 Allow: /
+
+Sitemap: https://billionairelottoface.netlify.app/sitemap.xml
